@@ -9,8 +9,8 @@ $(document).ready(function(){
     $("#button3").click(function(){
         $("#button3").addClass("redButton"); 
     })
-    $("#button4").click(function(){
+    $("#button5").click(function(){
         $("#button5").addClass("redButton"); 
     })
-    
+    $("#:reset");
 });
