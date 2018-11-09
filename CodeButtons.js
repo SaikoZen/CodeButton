@@ -1,6 +1,6 @@
 $(document).ready(function(){
     
-    var makeRed = function(addClass("redButton")) {
+    var makeRed = function($(this).addClass("redButton") {
     $("#button1").click(makeRed);
     });  
 
