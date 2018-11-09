@@ -1,16 +1,17 @@
 $(document).ready(function(){
     
-    $("#button1").click(function(){
-        $("#button1").addClass("redButton");
-    })    
+    var makeRed = function(addClass("redButton")) {
+    $("#button1").click(makeRed);
+    });  
+
     $("#button2").click(function(){   
-        $("#button2").addClass("redButton");    
+        $(this).addClass("redButton");    
     })
     $("#button3").click(function(){
-        $("#button3").addClass("redButton"); 
+        $(this).addClass("redButton"); 
     })
     $("#button5").click(function(){
-        $("#button5").addClass("redButton"); 
+        $(this).addClass("redButton"); 
     })
-    $("#:reset");
+  
 });
