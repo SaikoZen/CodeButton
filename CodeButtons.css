@@ -1,13 +1,9 @@
-.body {
-    background-color: lightgrey;
-}
 .defaultButton {
     border: black solid 2px;
     border-radius: 20px;
     background-color: yellow;
     width: 100px;
     height: 50px;
-    
 }
 .redButton {
     border: 2px black solid;
